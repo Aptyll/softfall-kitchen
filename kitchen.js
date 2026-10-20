@@ -15,6 +15,18 @@ window.KITCHEN = {
       ],
     },
 
+    {
+      id: 'frost-reeds', name: 'Frost Reeds', stage: 'cooking', date: '2026-10-20', patch: '0.514',
+      line: 'Deep snow becomes brush. Step into the reeds and the other team loses you.',
+      cover: 'art/frost-reeds/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-10-20', img: 'art/frost-reeds/round-1.png',
+          note: 'A tall bank, frost reeds or snow pillows. B, the frost reeds, is picked.' },
+        { name: 'Round 1: the map', date: '2026-10-20', img: 'art/frost-reeds/round-1-map.png',
+          note: 'Sixteen patches, mirrored across the creek. Picked as shown.' },
+      ],
+    },
+
     // ------------------------------------------------------------ served
     {
       id: 'armatos', name: 'Armatos', stage: 'served', date: '2026-10-20', patch: '0.504',
