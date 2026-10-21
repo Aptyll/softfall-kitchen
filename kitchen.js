@@ -6,6 +6,16 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'armatos-splash', name: 'Armatos Splash', stage: 'cooking', date: '2026-10-21',
+      line: 'The old standard-bearer, big, when you lock him in.',
+      cover: 'art/armatos-splash/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-10-21', img: 'art/armatos-splash/round-1.png',
+          note: 'Five styles from his game sprite to smooth paint, and two poses. M, chunky pixels, with Q, the sword planted, is picked.' },
+      ],
+    },
+
+    {
       id: 'fortiva-splash', name: 'Fortiva Splash', stage: 'cooking', date: '2026-10-21',
       line: 'Her big picture when you lock her in. Same chains, more room.',
       cover: 'art/fortiva-splash/cover.png',
