@@ -30,6 +30,8 @@ window.KITCHEN = {
           note: 'Her stance sketched four ways, and six places to stand. F, the blade planted, in K, the blizzard.' },
         { name: 'Round 3', date: '2026-10-21', img: 'art/fortiva-splash/round-3.png',
           note: 'The whole picture, twice: a halo of sun, or her arm out to the blade. O, the halo, is picked.' },
+        { name: 'Round 4', date: '2026-10-21', img: 'art/fortiva-splash/round-4.png',
+          note: 'New armor and five faces, drawn pixel by pixel. U, the smirk, is picked.' },
       ],
     },
 
