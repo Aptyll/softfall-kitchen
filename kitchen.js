@@ -14,6 +14,8 @@ window.KITCHEN = {
           note: 'Five styles from his game sprite to smooth paint, and two poses. M, chunky pixels, with Q, the sword planted, is picked.' },
         { name: 'Round 2', date: '2026-10-21', img: 'art/armatos-splash/round-2.png',
           note: 'The pick, polished: his face set by hand, cleaner fists, a halo behind him, and Iron Oath. Next: close the helm over his face.' },
+        { name: 'Round 3', date: '2026-10-21', img: 'art/armatos-splash/round-3.png',
+          note: 'His helm closes over his face: a spectacle guard, three takes on the eyes. S, a cold glint in each, is picked.' },
       ],
     },
 
