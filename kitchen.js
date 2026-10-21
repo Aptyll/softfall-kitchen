@@ -28,6 +28,8 @@ window.KITCHEN = {
           note: 'One pose in four styles, from her game sprite to smooth paint. A, the big sprite, is picked.' },
         { name: 'Round 2', date: '2026-10-21', img: 'art/fortiva-splash/round-2.png',
           note: 'Her stance sketched four ways, and six places to stand. F, the blade planted, in K, the blizzard.' },
+        { name: 'Round 3', date: '2026-10-21', img: 'art/fortiva-splash/round-3.png',
+          note: 'The whole picture, twice: a halo of sun, or her arm out to the blade. O, the halo, is picked.' },
       ],
     },
 
