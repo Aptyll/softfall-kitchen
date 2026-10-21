@@ -24,6 +24,8 @@ window.KITCHEN = {
       rounds: [
         { name: 'Round 1', date: '2026-10-21', img: 'art/fortiva-splash/round-1.png',
           note: 'One pose in four styles, from her game sprite to smooth paint. A, the big sprite, is picked.' },
+        { name: 'Round 2', date: '2026-10-21', img: 'art/fortiva-splash/round-2.png',
+          note: 'Her stance sketched four ways, and six places to stand. F, the blade planted, in K, the blizzard.' },
       ],
     },
 
