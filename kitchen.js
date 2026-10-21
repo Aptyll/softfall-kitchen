@@ -6,6 +6,18 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'ignia', name: 'Ignia', stage: 'cooking', date: '2026-10-21',
+      line: 'The firemage. She let the eternal flame go out so a village could keep warm.',
+      cover: 'art/ignia/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-10-21', img: 'art/ignia/round-1.png',
+          note: 'Three looks and three staffs on the real sprite. A, the Hearthkeeper, is her own look and C, the Wanderer, her first skin. The staffs look out of place, so they get another round.' },
+        { name: 'Round 2', date: '2026-10-21', img: 'art/ignia/round-2.png',
+          note: 'Three new staffs, and her side view redrawn so she does not shrink when she turns. G, a crook with a lantern on its hook, is picked.' },
+      ],
+    },
+
+    {
       id: 'armatos-splash', name: 'Armatos Splash', stage: 'cooking', date: '2026-10-21',
       line: 'The old standard-bearer, big, when you lock him in.',
       cover: 'art/armatos-splash/cover.png',
