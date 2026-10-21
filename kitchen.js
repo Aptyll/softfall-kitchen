@@ -6,6 +6,16 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'fortiva-splash', name: 'Fortiva Splash', stage: 'cooking', date: '2026-10-21',
+      line: 'Her big picture when you lock her in. Same chains, more room.',
+      cover: 'art/fortiva-splash/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-10-21', img: 'art/fortiva-splash/round-1.png',
+          note: 'One pose in four styles, from her game sprite to smooth paint. A, the big sprite, is picked.' },
+      ],
+    },
+
+    {
       id: 'kitchen', name: 'The Kitchen', stage: 'cooking', date: '2026-10-20',
       line: 'This page. A window into how Softfall gets made.',
       cover: 'art/kitchen/cover.png',
