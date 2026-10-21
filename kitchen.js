@@ -18,6 +18,16 @@ window.KITCHEN = {
     },
 
     {
+      id: 'aura', name: 'Aura', stage: 'cooking', date: '2026-10-21',
+      line: 'The northern light. She read in the stars that the fleet would sink, and it did.',
+      cover: 'art/aura/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-10-21', img: 'art/aura/round-1.png',
+          note: 'Three looks and three staffs on the real sprite. A, silver hair and a night mantle, is her look, now called the Northern Light, and F, a fallen star\'s shard, is her staff. One look for now.' },
+      ],
+    },
+
+    {
       id: 'armatos-splash', name: 'Armatos Splash', stage: 'cooking', date: '2026-10-21',
       line: 'The old standard-bearer, big, when you lock him in.',
       cover: 'art/armatos-splash/cover.png',
