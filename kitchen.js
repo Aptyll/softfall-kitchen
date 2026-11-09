@@ -6,6 +6,16 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'steam-store', name: 'Steam Store Page', stage: 'cooking', date: '2026-11-09',
+      line: 'New store screenshots, GIFs and a trailer for the five-on-five valley.',
+      cover: 'art/steam-store/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-09', img: 'art/steam-store/round-1.png',
+          note: 'Eight shots of the match, each marked real or staged. Staged fights are cleaner, so the fights are staged, the light is mostly day, and the trailer runs 60 seconds.' },
+      ],
+    },
+
+    {
       id: 'ignia', name: 'Ignia', stage: 'cooking', date: '2026-10-21',
       line: 'The firemage. She let the eternal flame go out so a village could keep warm.',
       cover: 'art/ignia/cover.png',
