@@ -96,6 +96,8 @@ window.KITCHEN = {
       rounds: [
         { name: 'Round 1', date: '2026-11-09', img: 'art/steam-store/round-1.png',
           note: 'Eight shots of the match, each marked real or staged. Staged fights are cleaner, so the fights are staged, the light is mostly day, and the trailer runs 60 seconds.' },
+        { name: 'Round 2', date: '2026-11-10', img: 'art/steam-store/round-2.png',
+          note: 'The first fights felt flat, so they were staged again up close, at the moment blows land. Six shots are kept, joined by the menu, the victory screen, the rabbit meadow and the old cistern wall above the creek, shown with no HUD.' },
       ],
     },
 
