@@ -6,6 +6,16 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'wave-soldiers', name: 'Wave Soldiers', stage: 'cooking', date: '2026-11-09',
+      line: 'The lanes get League\'s three kinds of bot: melee, ranged that throw snowballs, and siege that breaks towers.',
+      cover: 'art/wave-soldiers/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-09', img: 'art/wave-soldiers/round-1.png',
+          note: 'Four looks built on the real melee bot. B, the snowball arm, is the ranged bot, and D, the ballista cart, is the siege one.' },
+      ],
+    },
+
+    {
       id: 'falco', name: 'Falco', stage: 'cooking', date: '2026-11-09',
       line: 'The kestrel. He let the old hunt\'s hawks fly free. One came back.',
       cover: 'art/falco/cover.png',
