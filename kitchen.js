@@ -142,6 +142,16 @@ window.KITCHEN = {
     },
 
     {
+      id: 'bella', name: 'Bella', stage: 'cooking', date: '2026-11-10',
+      line: 'The imperial general. Swing first and her parry answers.',
+      cover: 'art/bella/cover.png',
+      rounds: [
+        { name: 'The spotlight', date: '2026-11-10', video: 'art/bella/spotlight.mp4', poster: 'art/bella/spotlight-poster.jpg', note: 'Her kit, staged in the game.',
+          link: 'https://www.youtube.com/@SoftfallYT' },
+      ],
+    },
+
+    {
       id: 'fortiva', name: 'Fortiva', stage: 'cooking', date: '2026-11-10',
       line: 'Strength is the power to refuse to kneel. The longer the fight, the harder she is to stop.',
       cover: 'art/fortiva/cover.png',
