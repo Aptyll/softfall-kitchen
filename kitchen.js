@@ -6,6 +6,16 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'readable-at-a-glance', name: 'Readable at a Glance', stage: 'cooking', date: '2026-11-10',
+      line: 'A stranger should know in three seconds who they are, who is with them, and where the fight is.',
+      cover: 'art/readable-at-a-glance/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-10', img: 'art/readable-at-a-glance/round-1.png',
+          note: 'A staged fight at night, today beside four changes: bodies keep their light, your own bar goes green, every hero stands in a ring of its side\'s colour, and the names come off. The first three are picked. The names stay.' },
+      ],
+    },
+
+    {
       id: 'wave-soldiers', name: 'Wave Soldiers', stage: 'cooking', date: '2026-11-09',
       line: 'The lanes get League\'s three kinds of bot: melee, ranged that throw snowballs, and siege that breaks towers.',
       cover: 'art/wave-soldiers/cover.png',
