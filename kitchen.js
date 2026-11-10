@@ -6,6 +6,18 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'ability-icons', name: 'Ability Icons', stage: 'cooking', date: '2026-11-10',
+      line: 'The keys of every hero in one colour of its own, and a small mark that says what each one does.',
+      cover: 'art/ability-icons/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-10', img: 'art/ability-icons/round-1.png',
+          note: 'Bold redraws for three heroes, with a corner mark borrowed from the health bar: A on the dark well, B on a colour per kind of ability. Noah picked B, but one colour per hero, not per kind.' },
+        { name: 'Round 2', date: '2026-11-10', img: 'art/ability-icons/round-2.png',
+          note: 'One glow per hero, light behind the picture and dark at the edges, the way League lights a kit. Noah said do it for all twenty.' },
+      ],
+    },
+
+    {
       id: 'status-icons', name: 'Status Icons', stage: 'cooking', date: '2026-11-10',
       line: 'One small icon beside a health bar says what is holding that body, and how long it has left.',
       cover: 'art/status-icons/cover.png',
