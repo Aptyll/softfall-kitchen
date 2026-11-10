@@ -6,6 +6,26 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'falco', name: 'Falco', stage: 'cooking', date: '2026-11-09',
+      line: 'The kestrel. He let the old hunt\'s hawks fly free. One came back.',
+      cover: 'art/falco/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-09', img: 'art/falco/round-1.png',
+          note: 'Three looks and three knives on the real sprite. C, the Huntsman in the old hunt\'s green hat and cape, is his look, and D, a short throwing knife, is his blade.' },
+      ],
+    },
+
+    {
+      id: 'nix', name: 'Nix', stage: 'cooking', date: '2026-11-09',
+      line: 'The snowblind. She keeps watch through the long nights so the valley can sleep.',
+      cover: 'art/nix/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-09', img: 'art/nix/round-1.png',
+          note: 'Three looks and three blades on the real sprite. A, the Snowblind in a night hood and bone goggles, is her look, and D, the ice dirk, is her blade.' },
+      ],
+    },
+
+    {
       id: 'snow-beasts', name: 'Snow Beast Heroes', stage: 'cooking', date: '2026-11-09',
       line: 'Heroes who are animals: a bear, a snow leopard, and a reindeer with its young driver.',
       cover: 'art/snow-beasts/cover.png',
