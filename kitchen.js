@@ -6,6 +6,20 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'winter-map', name: 'The Winter Map', stage: 'cooking', date: '2026-11-10',
+      line: 'Pine walls laid by hand, a river frozen solid, and one straight road through the stone ring.',
+      cover: 'art/winter-map/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-10', img: 'art/winter-map/round-1.png',
+          note: 'The stone ring keeps its walls and loses its ice and stepping stones, so the mid road runs straight through. Three floors, staged: plain snow, deep snow, or two drifts. Noah left it open, and the two drifts went in.' },
+        { name: 'Round 2', date: '2026-11-10', img: 'art/winter-map/round-2.png',
+          note: 'The river stops splitting the valley in half: it ends at the side lanes, gets more ice bridges, or freezes over. Noah picked B, frozen and walkable, with every fish gone and the bear at home.' },
+        { name: 'Round 3', date: '2026-11-10', img: 'art/winter-map/round-3.png',
+          note: 'The whole map again, with every tree wall placed on purpose and paths cut between the camps, the same for both sides. It is in the game now, with rounder walls.' },
+      ],
+    },
+
+    {
       id: 'ability-icons', name: 'Ability Icons', stage: 'cooking', date: '2026-11-10',
       line: 'The keys of every hero in one colour of its own, and a small mark that says what each one does.',
       cover: 'art/ability-icons/cover.png',
