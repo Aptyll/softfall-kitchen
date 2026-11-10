@@ -6,6 +6,16 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'status-icons', name: 'Status Icons', stage: 'cooking', date: '2026-11-10',
+      line: 'One small icon beside a health bar says what is holding that body, and how long it has left.',
+      cover: 'art/status-icons/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-10', img: 'art/status-icons/round-1.png',
+          note: 'Eight icons, staged on a frozen pond: thrown, pulled, frozen, stunned, rooted, blinded, weakened and slowed. The strongest one wins, and its fill drains as it wears off. Noah picked it as shown.' },
+      ],
+    },
+
+    {
       id: 'robot-heroes', name: 'Robot Heroes', stage: 'cooking', date: '2026-11-10',
       line: 'Machines of the works, dug up by the empire and thrown out for refusing to do wrong.',
       cover: 'art/robot-heroes/cover.png',
