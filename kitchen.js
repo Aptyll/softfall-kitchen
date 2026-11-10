@@ -70,6 +70,8 @@ window.KITCHEN = {
       rounds: [
         { name: 'Round 1', date: '2026-10-21', img: 'art/aura/round-1.png',
           note: 'Three looks and three staffs on the real sprite. A, silver hair and a night mantle, is her look, now called the Northern Light, and F, a fallen star\'s shard, is her staff. One look for now.' },
+        { name: 'The spotlight', date: '2026-11-10', video: 'art/aura/spotlight.mp4', poster: 'art/aura/spotlight-poster.jpg',
+          link: 'https://www.youtube.com/@SoftfallYT' },
       ],
     },
 
