@@ -6,6 +6,18 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'snow-beasts', name: 'Snow Beast Heroes', stage: 'cooking', date: '2026-11-09',
+      line: 'Heroes who are animals: a bear, a snow leopard, and a reindeer with its young driver.',
+      cover: 'art/snow-beasts/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-09', img: 'art/snow-beasts/round-1.png',
+          note: 'Bruma the bear, Uncia the snow leopard and Trahea the reindeer, painted as lit shapes. They looked bad, so the method changed.' },
+        { name: 'Round 2', date: '2026-11-10', img: 'art/snow-beasts/round-2.png',
+          note: 'Redrawn flat on the game\'s pixel grid and checked by a reader who did not know what they were. The sides read, and the fronts turned three-quarter. Not built yet.' },
+      ],
+    },
+
+    {
       id: 'steam-store', name: 'Steam Store Page', stage: 'cooking', date: '2026-11-09',
       line: 'New store screenshots, GIFs and a trailer for the five-on-five valley.',
       cover: 'art/steam-store/cover.png',
