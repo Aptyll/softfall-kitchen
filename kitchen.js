@@ -6,6 +6,16 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'robot-heroes', name: 'Robot Heroes', stage: 'cooking', date: '2026-11-10',
+      line: 'Machines of the works, dug up by the empire and thrown out for refusing to do wrong.',
+      cover: 'art/robot-heroes/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-10', img: 'art/robot-heroes/round-1.png',
+          note: 'Three robots on the hero frame: a surveyor, a digger and a carrier. Noah picked B, the digger, and C, the carrier.' },
+      ],
+    },
+
+    {
       id: 'readable-at-a-glance', name: 'Readable at a Glance', stage: 'cooking', date: '2026-11-10',
       line: 'A stranger should know in three seconds who they are, who is with them, and where the fight is.',
       cover: 'art/readable-at-a-glance/cover.png',
