@@ -36,6 +36,10 @@ window.KITCHEN = {
           note: 'Three looks and three staffs on the real sprite. A, the Hearthkeeper, is her own look and C, the Wanderer, her first skin. The staffs look out of place, so they get another round.' },
         { name: 'Round 2', date: '2026-10-21', img: 'art/ignia/round-2.png',
           note: 'Three new staffs, and her side view redrawn so she does not shrink when she turns. G, a crook with a lantern on its hook, is picked.' },
+        { name: 'Spotlight round 1', date: '2026-11-09', img: 'art/ignia/spotlight-round-1.png',
+          note: 'Three first frames for her spotlight Short. A, the Wildfire jumping rival to rival, opens it. Staged in the game.' },
+        { name: 'The spotlight', date: '2026-11-09', video: 'art/ignia/spotlight.mp4', poster: 'art/ignia/spotlight-poster.jpg',
+          link: 'https://www.youtube.com/@SoftfallYT' },
       ],
     },
 
@@ -114,6 +118,10 @@ window.KITCHEN = {
         { name: 'Round 4', date: '2026-10-20', img: 'art/armatos/round-4.png',
           note: 'At real size. F is his look, G his first skin, J his greatsword.' },
         { name: 'In the game', date: '2026-10-20', img: 'art/armatos/in-game.png', served: true },
+        { name: 'Spotlight round 1', date: '2026-11-09', img: 'art/armatos/spotlight-round-1.png',
+          note: 'Three first frames for his spotlight Short. A, Iron Verdict throwing two rivals up, opens it. Staged in the game.' },
+        { name: 'The spotlight', date: '2026-11-09', video: 'art/armatos/spotlight.mp4', poster: 'art/armatos/spotlight-poster.jpg',
+          link: 'https://www.youtube.com/@SoftfallYT' },
       ],
     },
     {
