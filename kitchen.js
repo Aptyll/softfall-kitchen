@@ -100,6 +100,16 @@ window.KITCHEN = {
     },
 
     {
+      id: 'fortiva', name: 'Fortiva', stage: 'cooking', date: '2026-11-10',
+      line: 'Strength is the power to refuse to kneel. The longer the fight, the harder she is to stop.',
+      cover: 'art/fortiva/cover.png',
+      rounds: [
+        { name: 'The spotlight', date: '2026-11-10', video: 'art/fortiva/spotlight.mp4', poster: 'art/fortiva/spotlight-poster.jpg', note: 'Her kit, staged in the game.',
+          link: 'https://www.youtube.com/@SoftfallYT' },
+      ],
+    },
+
+    {
       id: 'fortiva-splash', name: 'Fortiva Splash', stage: 'cooking', date: '2026-10-21',
       line: 'Her big picture when you lock her in. Same chains, more room.',
       cover: 'art/fortiva-splash/cover.png',
