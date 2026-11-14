@@ -48,6 +48,8 @@ window.KITCHEN = {
       rounds: [
         { name: 'Round 1', date: '2026-11-10', img: 'art/robot-heroes/round-1.png',
           note: 'Three robots on the hero frame: a surveyor, a digger and a carrier. Noah picked B, the digger, and C, the carrier.' },
+        { name: 'Round 2: Mensor', date: '2026-11-14', img: 'art/robot-heroes/round-2.png',
+          note: 'Three looks for MENSOR, the surveyor: a sighting lens for an eye, a striped range rod on his back, or a long coat in his side\'s colour. Noah picked E, the range rod.' },
       ],
     },
 
