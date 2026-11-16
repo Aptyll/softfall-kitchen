@@ -18,6 +18,8 @@ window.KITCHEN = {
           note: 'Three maps with two roads each, still on the corner bases. Noah wanted the field turned sideways, with islands of woods.' },
         { name: 'Round 4', date: '2026-11-16', img: 'art/map-3v3/round-4.png',
           note: 'Sideways: a base at each end, a road along the top and the bottom, the orca in a nook at the top, and new robot camps. Noah picked J and asked for walls drawn with more care.' },
+        { name: 'Round 5', date: '2026-11-16', img: 'art/map-3v3/round-5.png',
+          note: 'J again, its walls laid on a grid: halls, doors, pillars and a centre wall, mirrored tile for tile, every path four tiles wide. Noah moved the outer towers in and asked for a key and a square map.' },
       ],
     },
 
