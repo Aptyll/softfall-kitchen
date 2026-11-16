@@ -66,6 +66,16 @@ window.KITCHEN = {
     },
 
     {
+      id: 'robot-camps', name: 'Robot Camps', stage: 'cooking', date: '2026-11-16',
+      line: 'Machines of the works that woke with nobody to tell them what to do, wandering the bottom woods.',
+      cover: 'art/robot-camps/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-16', img: 'art/robot-camps/round-1.png',
+          note: 'Three stray machines for the bottom camps, beside a wolf and a hero: a tin hound, a lamp strider and a crane cart. Noah picked B, the lamp strider, and asked for ten of it.' },
+      ],
+    },
+
+    {
       id: 'robot-heroes', name: 'Robot Heroes', stage: 'cooking', date: '2026-11-10',
       line: 'Machines of the works, dug up by the empire and thrown out for refusing to do wrong.',
       cover: 'art/robot-heroes/cover.png',
