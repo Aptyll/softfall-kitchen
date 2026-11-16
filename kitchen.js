@@ -74,6 +74,8 @@ window.KITCHEN = {
           note: 'Three stray machines for the bottom camps, beside a wolf and a hero: a tin hound, a lamp strider and a crane cart. Noah picked B, the lamp strider, and asked for ten of it.' },
         { name: 'Round 2', date: '2026-11-16', img: 'art/robot-camps/round-2.png',
           note: 'Ten lamp striders: taller, squatter, a dome, a stovepipe, a back tank, a long neck, a searchlight. Noah picked two twin lamps and a back tank for each camp, and asked for every light to have a reason.' },
+        { name: 'Round 3', date: '2026-11-16', img: 'art/robot-camps/round-3.png',
+          note: 'Every light given one job: cyan eyes to see, amber when it comes for you, gold for the heart that woke it. Noah picked N, the headlamps, three to a camp.' },
       ],
     },
 
