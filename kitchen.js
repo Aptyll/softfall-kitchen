@@ -72,6 +72,8 @@ window.KITCHEN = {
       rounds: [
         { name: 'Round 1', date: '2026-11-16', img: 'art/robot-camps/round-1.png',
           note: 'Three stray machines for the bottom camps, beside a wolf and a hero: a tin hound, a lamp strider and a crane cart. Noah picked B, the lamp strider, and asked for ten of it.' },
+        { name: 'Round 2', date: '2026-11-16', img: 'art/robot-camps/round-2.png',
+          note: 'Ten lamp striders: taller, squatter, a dome, a stovepipe, a back tank, a long neck, a searchlight. Noah picked two twin lamps and a back tank for each camp, and asked for every light to have a reason.' },
       ],
     },
 
