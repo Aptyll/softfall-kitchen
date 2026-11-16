@@ -24,6 +24,8 @@ window.KITCHEN = {
           note: 'The towers moved in, the world made square, and every spot numbered in a key. Noah sent the orca up above the top lane, took out the gates, and kept just one bear.' },
         { name: 'Round 7', date: '2026-11-16', img: 'art/map-3v3/round-7.png',
           note: 'The orca in its own pit above the top lane, two towers a lane, one bear in the bottom hollow, soldiers marching out of the perch. Noah said it looked like toy bricks and asked for real pixel detail.' },
+        { name: 'Round 8', date: '2026-11-16', img: 'art/map-3v3/round-8.png',
+          note: 'Painted again at three pixels a tile: soft tree lines, pine crowns one by one, stone plazas, and a smaller orca pit. Noah asked for the shapes to be cleaner and more exactly mirrored.' },
       ],
     },
 
