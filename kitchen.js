@@ -20,6 +20,8 @@ window.KITCHEN = {
           note: 'Sideways: a base at each end, a road along the top and the bottom, the orca in a nook at the top, and new robot camps. Noah picked J and asked for walls drawn with more care.' },
         { name: 'Round 5', date: '2026-11-16', img: 'art/map-3v3/round-5.png',
           note: 'J again, its walls laid on a grid: halls, doors, pillars and a centre wall, mirrored tile for tile, every path four tiles wide. Noah moved the outer towers in and asked for a key and a square map.' },
+        { name: 'Round 6', date: '2026-11-16', img: 'art/map-3v3/round-6.png',
+          note: 'The towers moved in, the world made square, and every spot numbered in a key. Noah sent the orca up above the top lane, took out the gates, and kept just one bear.' },
       ],
     },
 
