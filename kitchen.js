@@ -6,6 +6,22 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'map-3v3', name: 'The 3v3 Map', stage: 'cooking', date: '2026-11-16',
+      line: 'Two roads, one jungle of pine walls between them, and a match that ends in ten minutes.',
+      cover: 'art/map-3v3/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-14', img: 'art/map-3v3/round-1.png',
+          note: 'Three summer worlds, each staged with its own way to get around: seed puffs, swing poles, a blowhole and the tide. Noah set them aside and kept the snow.' },
+        { name: 'Round 2', date: '2026-11-16', img: 'art/map-3v3/round-2.png',
+          note: 'Back in the winter map look: one road or two, with the bear and the orca moved around. Noah asked for two roads with a jungle between them.' },
+        { name: 'Round 3', date: '2026-11-16', img: 'art/map-3v3/round-3.png',
+          note: 'Three maps with two roads each, still on the corner bases. Noah wanted the field turned sideways, with islands of woods.' },
+        { name: 'Round 4', date: '2026-11-16', img: 'art/map-3v3/round-4.png',
+          note: 'Sideways: a base at each end, a road along the top and the bottom, the orca in a nook at the top, and new robot camps. Noah picked J and asked for walls drawn with more care.' },
+      ],
+    },
+
+    {
       id: 'winter-map', name: 'The Winter Map', stage: 'cooking', date: '2026-11-10',
       line: 'Pine walls laid by hand, a river frozen solid, and one straight road through the stone ring.',
       cover: 'art/winter-map/cover.png',
