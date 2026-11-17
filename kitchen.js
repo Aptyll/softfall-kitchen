@@ -66,6 +66,16 @@ window.KITCHEN = {
     },
 
     {
+      id: 'real-surfaces', name: 'Real Surfaces', stage: 'cooking', date: '2026-11-17',
+      line: 'Brass should turn like a barrel. Ice should be the colour of the creek it stands in.',
+      cover: 'art/real-surfaces/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-17', img: 'art/real-surfaces/round-1.png',
+          note: 'The camp boss and a stand of ice, the old way beside the new: brass lit like a barrel, a dial of real glass, ice in the creek\'s own blues, snow with no line round it. Staged, not in the game. Noah said yes: everything bigger than a hero gets drawn this way.' },
+      ],
+    },
+
+    {
       id: 'robot-camps', name: 'Robot Camps', stage: 'cooking', date: '2026-11-16',
       line: 'Machines of the works that woke with nobody to tell them what to do, wandering the bottom woods.',
       cover: 'art/robot-camps/cover.png',
