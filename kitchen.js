@@ -6,6 +6,19 @@ window.KITCHEN = {
   dishes: [
     // ------------------------------------------------------------ cooking
     {
+      id: 'the-perch', name: 'The Perch', stage: 'cooking', date: '2026-11-18',
+      line: 'Your base: the eagle flies your side in, and the court round it holds two guard towers.',
+      cover: 'art/the-perch/cover.png',
+      rounds: [
+        { name: 'Round 5', date: '2026-11-18', img: 'art/the-perch/round-5.png',
+          note: 'Stone walls round the bird with gates for the lanes, staged in the real game, and a swoop to fly the side in. Noah turned down the gates and wanted the side and the merchant riding the bird.' },
+        { name: 'Round 6', date: '2026-11-18', img: 'art/the-perch/round-6.png',
+          note: 'No gates: a raised dais, two guard towers, or a wide open court. Noah took the open court with two guard towers, and asked that a lane fall from the outside in before the eagle can be hit.' },
+        { name: 'Round 7', date: '2026-11-18', img: 'art/the-perch/round-7.png',
+          note: 'Built in the game: the open court, a guard tower for each lane, and a padlocked grey bar on anything that cannot be hit yet. Noah said ship it, and it went in with the fly-in.' },
+      ],
+    },
+    {
       id: 'map-3v3', name: 'The 3v3 Map', stage: 'cooking', date: '2026-11-16',
       line: 'Two roads, one jungle of pine walls between them, and a match that ends in ten minutes.',
       cover: 'art/map-3v3/cover.png',
