@@ -86,6 +86,10 @@ window.KITCHEN = {
           note: 'Ten lamp striders: taller, squatter, a dome, a stovepipe, a back tank, a long neck, a searchlight. Noah picked two twin lamps and a back tank for each camp, and asked for every light to have a reason.' },
         { name: 'Round 3', date: '2026-11-16', img: 'art/robot-camps/round-3.png',
           note: 'Every light given one job: cyan eyes to see, amber when it comes for you, gold for the heart that woke it. Noah picked N, the headlamps, three to a camp.' },
+        { name: 'Round 6', date: '2026-11-18', img: 'art/robot-camps/round-6.png',
+          note: 'Staged in the real woods: the robots folded asleep on the snow, three leash rings, three looks for the ground they keep. Noah picked E, a bold ring six tiles out, kept the snow bare, and cut the camps by the base mouth.' },
+        { name: 'Round 7', date: '2026-11-18', img: 'art/robot-camps/round-7.png',
+          note: 'The creek camps, staged: the same robot bigger, in snow or in ice, and a faint ring while they sleep. Noah picked D, twice the size in ice, and the faint ring.' },
       ],
     },
 
