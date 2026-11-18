@@ -90,6 +90,24 @@ window.KITCHEN = {
     },
 
     {
+      id: 'trading-post', name: "Merch's Trading Post", stage: 'cooking', date: '2026-11-17',
+      line: 'Merch hops off the bird, raises his tent behind the perch and sits down to sell.',
+      cover: 'art/trading-post/cover.png',
+      rounds: [
+        { name: 'Round 1', date: '2026-11-17', img: 'art/trading-post/round-1.png',
+          note: 'Three things Merch could set up and sit at: a sled, a snow counter, a trade tent. None picked. Noah asked for one better, bigger shop.' },
+        { name: 'Round 2', date: '2026-11-17', img: 'art/trading-post/round-2.png',
+          note: 'One trading post, staged north of the perch: a striped pavilion over a plank counter, a rug where you stand to buy. Noah moved it behind the perch, turned to face the field.' },
+        { name: 'Round 3', date: '2026-11-17', img: 'art/trading-post/round-3.png',
+          note: 'The post side-on behind the bird, staged, the same walk from both lanes. Noah liked the shop and asked for the ground and trees to be built around it.' },
+        { name: 'Round 4', date: '2026-11-17', img: 'art/trading-post/round-4.png',
+          note: "Merch's court, staged: a bay of stones behind the perch, two wings of pine, the sled parked south. Noah picked it to build." },
+        { name: 'Round 5', date: '2026-11-18', img: 'art/trading-post/round-5.png',
+          note: 'The court built, both bases, and the first five seconds of a match: hop off, counter, frame, open. Noah said merge it.' },
+      ],
+    },
+
+    {
       id: 'robot-heroes', name: 'Robot Heroes', stage: 'cooking', date: '2026-11-10',
       line: 'Machines of the works, dug up by the empire and thrown out for refusing to do wrong.',
       cover: 'art/robot-heroes/cover.png',
